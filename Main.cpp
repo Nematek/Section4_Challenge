@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+	// Written by JD Flindall
 
 	int MyFavouriteNumber{ 0 };
 
