@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-	// Written by NematekGSD 2025
+	// Written by NematekGSD on Main.
 
 	int MyFavouriteNumber{ 0 };
 
