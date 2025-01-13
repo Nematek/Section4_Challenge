@@ -3,6 +3,8 @@ using namespace std;
 
 int main() {
 
+	// Written by NematekGSD 2025
+
 	int MyFavouriteNumber{ 0 };
 
 	cout << "Enter your favourite number between 1 and 100: ";
